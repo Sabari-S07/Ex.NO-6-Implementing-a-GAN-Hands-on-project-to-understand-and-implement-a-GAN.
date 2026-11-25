@@ -164,7 +164,9 @@ if (i + 1) % 100 == 0:
             plt.axis("off")
             plt.show()
 
-    
+
+<img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/b47a2714-a92c-46a4-87e4-d3d4c59dc302" />
+
 
 
 ## Conclusion:
